@@ -27,13 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Accra Ghana. Results-oriented specialised in developing and contributing to frontend and backend for building mobile & web apps. Worked on 2 user-friendly and fully functional applications for Android and IOS. I am open for collaboration and willing to learn something new.
-
-- :telescope: I teach Design Thinking.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: I also Coach and Mentor Tech Startups.
+Hi, I’m Clifford Sarpong, a Software Engineer and Creative Tech Designer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years of experience leading projects, mentoring teams, and building impactful digital solutions. With a strong foundation in IT from Kwame Nkrumah University of Science and Technology and hands-on expertise in both full-stack development and user-centered design, I thrive at the intersection of technology and creativity, crafting solutions that are not only functional but also intuitive and engaging. My top skills include UI/UX design, web and mobile development, and innovative problem-solving, which enable me to deliver user-focused products that stand out in competitive markets. I am seeking a full-time role where I can bring this blend of engineering and design to create meaningful digital experiences. Let’s connect and explore how I can add value to your team.
 
 - :mailbox:How to reach me: cliffysarp@gmail.com
 
